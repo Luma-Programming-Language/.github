@@ -1,7 +1,7 @@
 # Luma
 
 <p align="center">
-  <img src="assets/luma.png" alt="Luma Logo" width="200"/>
+  <img src="../assets/luma.png" alt="Luma Logo" width="200"/>
 </p>
 
 <p align="center">
