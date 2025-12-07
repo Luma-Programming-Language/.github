@@ -63,7 +63,7 @@ This organization houses the complete Luma ecosystem:
 ### Core Projects
 
 - **[luma](https://github.com/Luma-Programming-Language/Luma)** — The Luma compiler and language specification
-- **[luma-std](https://github.com/luma-lang/luma-std)** *(coming soon)* — Standard library (math, memory, strings, I/O)
+- **[luma-std](https://github.com/Luma-Programming-Language/Luma-std)** — Standard library (math, memory, strings, I/O, etc)
 - **[luma-docs](https://github.com/luma-lang/luma-docs)** *(coming soon)* — Official documentation and tutorials
 
 ### Tooling
