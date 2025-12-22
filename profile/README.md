@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Luma-Programming-Language/Luma">Compiler</a> •
   <a href="https://bit.ly/lux-discord">Discord</a> •
-  <a href="https://github.com/Luma-Programming-Language/Luma/blob/main/docs/docs.md">Documentation</a>
+  <a href="https://luma-docs-five.vercel.app/">Documentation</a>
 </p>
 
 ---
